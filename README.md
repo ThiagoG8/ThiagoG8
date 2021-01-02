@@ -1,5 +1,7 @@
 <h1>Thiago Gomes</h1>
-<h2 align="center"> Olá dev seja bem vindo(a) ao meu perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h3 align="center"> Olá dev seja bem vindo(a) ao meu perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
+
+<br />
 
 <p>
 Estudante de programação web, apixonado por computadores e desenvolvimento software desde os 5 anos de idade.
