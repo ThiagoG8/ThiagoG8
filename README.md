@@ -1,31 +1,23 @@
-# **Thiago Gomes**
+<h1>Thiago Gomes</h1>
+<h2 align="center"> Olá dev seja bem vindo(a) ao meu perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-<h2 align="center">Olá dev seja bem vindo(a) ao meu perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-<br />
-
+<p>
 Estudante de programação web, apixonado por computadores e desenvolvimento software desde os 5 anos de idade.
 
 Sempre procuro conhecimento para novos interesses e por curiosidade também.
+</p>
 
-<br />
+### Tecnologias que eu mais uso
 
-## **Tecnologias que eu mais uso**
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+</p>
 
-<br />
-
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30" />
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30" />
-
-<br />
-<br />
-
-## **Estatísticas**
-
-<br />
-
+### Estatísticas
 
 <table>
   <tr>
