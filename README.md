@@ -9,6 +9,9 @@ Estudante de programação web, apixonado por computadores e desenvolvimento sof
 Sempre procuro conhecimento para novos interesses e por curiosidade também.
 </p>
 
+### 🎧 Tocando no Spotify
+[<img src="https://novatorem.thiagog8.vercel.app/api/spotify" alt="biachacon Spotify Playing" width="350" />](https://open.spotify.com/user/z2mh8c2xz65ppom5ezodev5vn)
+
 ### Tecnologias que eu mais uso
 
 <p align="left">
@@ -23,7 +26,7 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
 
 <table>
   <tr>
-    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedLegen&layout=compact&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5" /></td>
-    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=RedLegen&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5&icon_color=f5f5f5&show_icons=true&include_all_commits=true" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoG8&layout=compact&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=ThiagoG8&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5&icon_color=f5f5f5&show_icons=true&include_all_commits=true" /></td>
   </tr>  
 </table>
