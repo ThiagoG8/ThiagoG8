@@ -11,8 +11,6 @@
   </a>
 </p>
 
-<br />
-
 <p>
 Estudante de programação web, apixonado por computadores e desenvolvimento software desde os 5 anos de idade.
 
