@@ -12,7 +12,7 @@
 </p>
 
 <p>
-Estudante de programação web, apixonado por computadores e desenvolvimento software desde os 5 anos de idade.
+Estudante de programação web, apaixonado por computadores e desenvolvimento software desde os 5 anos de idade.
 
 Sempre procuro conhecimento para novos interesses e por curiosidade também.
 </p>
