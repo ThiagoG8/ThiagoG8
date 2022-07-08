@@ -1,5 +1,5 @@
 <h1>Thiago Gomes</h1>
-<h3 align="center"> Olá dev seja bem vindo(a) ao meu perfil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
+<h3 align="center"> Olá dev seja bem vindo(a) ao meu perfil</h3>
 
 <p align="center"> 
   <a href="https://github.com/ThiagoG8">
