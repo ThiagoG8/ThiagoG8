@@ -1,7 +1,7 @@
 <h1>Thiago Gomes</h1>
 <h3 align="center"> Olá dev seja bem vindo(a) ao meu perfil</h3>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://github.com/ThiagoG8">
     <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ThiagoG8" />
   </a>
@@ -9,7 +9,7 @@
   <a href="https://app.rocketseat.com.br/me/thiagog8">
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
   </a>
-</p>
+</p> -->
 
 <p>
 Estudante de programação web, apaixonado por computadores e desenvolvimento software desde os 5 anos de idade.
@@ -19,9 +19,9 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
 
 ---
 
-<!--
+<!-- 
 <a href="#"> <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> </a>
--->
+ -->
 
 ### 🎧 Tocando no Spotify
 [<img src="https://novatorem.thiagog8.vercel.app/api/spotify" alt="biachacon Spotify Playing" width="350" />](https://open.spotify.com/user/z2mh8c2xz65ppom5ezodev5vn)
@@ -98,9 +98,15 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
 
 ### :chart_with_upwards_trend: Estatísticas
 
-<table>
+<div>
+  <a href="https://github.com/ThiagoG8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoG8&layout=compact&bg_color=13294B&border_color=FFDB33&title_color=FFDB33&text_color=F5F5F5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoG8&show_icons=true&bg_color=13294B&border_color=FFDB33&title_color=FFDB33&text_color=F5F5F5&include_all_commits=true"/>
+</div>
+
+<!-- <table>
   <tr>
-    <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoG8&layout=compact&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5" /></td>
-    <td><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoG8&bg_color=right,59c173,a17fe0,5d26c1&title_color=ffffff&text_color=f5f5f5&icon_color=f5f5f5&show_icons=true&include_all_commits=true" /></td>
-  </tr>  
-</table>
+    <td><img width="350rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoG8&layout=compact&bg_color=13294B&border_color=FFDB33&title_color=FFDB33&text_color=F5F5F5" /></td>
+<!--     <td><img width="350rem" align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoG8&bg_color=13294B&border_color=FFDB33&title_color=FFDB33&text_color=F5F5F5&icon_color=f5f5f5&show_icons=true&include_all_commits=true" /></td> -->
+<!--   </tr>  
+</table> -->
