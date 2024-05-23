@@ -23,9 +23,10 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
 <a href="#"> <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> </a>
  -->
 
-### 🎧 Tocando no Spotify
+<!-- ### 🎧 Tocando no Spotify
 [<img src="https://novatorem.thiagog8.vercel.app/api/spotify" alt="biachacon Spotify Playing" width="350" />](https://open.spotify.com/user/z2mh8c2xz65ppom5ezodev5vn)
-
+ -->
+ 
 ### :memo: Linguagens
 
 <!--<p align="left">
@@ -38,6 +39,10 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
 
 <a href="#">
       <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+
+<a href="#">
+  <img alt="GML" src="https://img.shields.io/badge/-GML-039E5C?logo=gamemaker&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="#">
@@ -94,6 +99,10 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
 
 <a href="#">
   <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</a>
+
+<a href="#">
+  <img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker-039E5C?logo=gamemaker&logoColor=white&style=for-the-badge" />
 </a>
 
 ### :chart_with_upwards_trend: Estatísticas
