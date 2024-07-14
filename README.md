@@ -12,7 +12,7 @@
 </p> -->
 
 <p>
-Estudante de programação web, apaixonado por computadores e desenvolvimento software desde os 5 anos de idade.
+Estudante de programação web, apaixonado por computadores e desenvolvimento software desde pequeno.
 
 Sempre procuro conhecimento para novos interesses e por curiosidade também.
 </p>
@@ -67,9 +67,9 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
   <img alt="reactjs" src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
-<a href="#">
+<!-- <a href="#">
   <img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</a>
+</a> -->
 
 <a href="#">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -81,13 +81,13 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </a>
 
-<a href="#">
+<!-- <a href="#">
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
 <a href="#">
   <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
+</a> -->
 
 <a href="#">
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
