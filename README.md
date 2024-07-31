@@ -105,7 +105,7 @@ Sempre procuro conhecimento para novos interesses e por curiosidade também.
   <img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker-039E5C?logo=gamemaker&logoColor=white&style=for-the-badge" />
 </a>
 
-### :chart_with_upwards_trend: Estatísticas
+<!-- ### :chart_with_upwards_trend: Estatísticas
 
 <div>
   <a href="https://github.com/ThiagoG8">
